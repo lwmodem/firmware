@@ -1,9 +1,8 @@
-# Firmware
+This repository contains the firmware files to be used with Murata CMWX1ZZABZ-104 module.
 
-Firmware Repository for Semtech Modem
+Disclaimer
+THE SEMTECH SOFTWARE AND THE DOCUMENTATION ARE PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND FROM SEMTECH OR FROM ANY OTHER PERSON OR ENTITY, INCLUDING WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE.
 
-# Modem Application 
+The content of this repository is provided under the GitHub Terms of Services.
 
-ModemApp.bin is an application firmware run on the Nucleo-L073
-
-modem_fw_update.py is a python script that used for modem firmware updating.
+Copyright Semtech Corporation 2019. All rights reserved, with the exception of files that have an explicit license on top of their directory or in their open source code in which case the later prevails.
