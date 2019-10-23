@@ -1,6 +1,6 @@
 This repository contains the firmware files to be used with Murata CMWX1ZZABZ-104 module.
 
-Disclaimer
+Disclaimer:<br/>
 THE SEMTECH SOFTWARE AND THE DOCUMENTATION ARE PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND FROM SEMTECH OR FROM ANY OTHER PERSON OR ENTITY, INCLUDING WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE.
 
 The content of this repository is provided under the GitHub Terms of Services.
